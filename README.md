@@ -5,3 +5,4 @@
 > https://mp.weixin.qq.com
 # 小程序开发工具
 > https://cnodejs.org/topic/580f007deae2a24f34e67ead
+> http://developers.weixin.qq.com/miniprogram/dev/devtools/download.html?t=2018516
