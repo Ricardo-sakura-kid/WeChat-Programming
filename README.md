@@ -1,2 +1,7 @@
-# -
-微信小程序
+# WeChat-Programming
+# 参考教程
+> https://blog.csdn.net/hotpots/article/details/78532133#commentBox
+# 微信公众平台
+> https://mp.weixin.qq.com
+# 小程序开发工具
+> https://cnodejs.org/topic/580f007deae2a24f34e67ead
